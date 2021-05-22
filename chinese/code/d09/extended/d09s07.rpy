@@ -4,397 +4,397 @@
 translate chinese d09s07_e733d4b9:
 
     # "After short trip [mcname] and Samiya stop near a hotel's entrance."
-    "After short trip [mcname] and Samiya stop near a hotel's entrance."
+    "短暂旅途过后，[mcname]和萨米亚在一家酒店的入口处停下来。"
 
 # game/code/d09/extended/d09s07.rpy:56
 translate chinese d09s07_a349e3dc:
 
     # mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
-    mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
+    mct "现在我要去见萨米亚，完成这个奇怪的任务……{w}我想已经没有回头路了。"
 
 # game/code/d09/extended/d09s07.rpy:59
 translate chinese d09s07_7c2e389c:
 
     # mc "Alright. So, what are we doing here?"
-    mc "Alright. So, what are we doing here?"
+    mc "好吧。所以我们在这里做什么呢？"
 
 # game/code/d09/extended/d09s07.rpy:60
 translate chinese d09s07_d770a6b1:
 
     # sb "Good news. You get to rape somebody."
-    sb "Good news. You get to rape somebody."
+    sb "好消息。你可以强奸别人。"
 
 # game/code/d09/extended/d09s07.rpy:61
 translate chinese d09s07_5d3ca408:
 
     # mc "What the Fuck? I'm not doing that."
-    mc "What the Fuck? I'm not doing that."
+    mc "什么鬼？我不会那么做的。"
 
 # game/code/d09/extended/d09s07.rpy:63
 translate chinese d09s07_876cc8c2:
 
     # sb "Relax. I'm getting paid for this."
-    sb "Relax. I'm getting paid for this."
+    sb "放松啊。我为此得到了报酬。"
 
 # game/code/d09/extended/d09s07.rpy:64
 translate chinese d09s07_b3e774b1:
 
     # mc "That doesn't make it any better."
-    mc "That doesn't make it any better."
+    mc "这并没让事情变得更好。"
 
 # game/code/d09/extended/d09s07.rpy:66
 translate chinese d09s07_7b218c07:
 
     # sb "I mean, she's paying for this."
-    sb "I mean, she's paying for this."
+    sb "我的意思是，那个人在为这个付钱。"
 
 # game/code/d09/extended/d09s07.rpy:67
 translate chinese d09s07_004b029a:
 
     # mc "Huh? Someone is paying you to rape... {w}herself?"
-    mc "Huh? Someone is paying you to rape... {w}herself?"
+    mc "啊？ 有人付钱让你强奸……{w}她自己？"
 
 # game/code/d09/extended/d09s07.rpy:69
 translate chinese d09s07_8126f0c0:
 
     # sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
-    sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
+    sb "嗯，她付钱让我雇一个或几个男人来强奸她。她称之为强制性角色扮演。"
 
 # game/code/d09/extended/d09s07.rpy:70
 translate chinese d09s07_f4bf12ce:
 
     # mc "This sounds insane."
-    mc "This sounds insane."
+    mc "听起来很疯狂。"
 
 # game/code/d09/extended/d09s07.rpy:71
 translate chinese d09s07_c00ba241:
 
     # sb "You're still here."
-    sb "You're still here."
+    sb "你还在这儿。"
 
 # game/code/d09/extended/d09s07.rpy:72
 translate chinese d09s07_e0561b49:
 
     # mc "I'm not a rapist."
-    mc "I'm not a rapist."
+    mc "我不是个强奸犯。"
 
 # game/code/d09/extended/d09s07.rpy:74
 translate chinese d09s07_31cee9e7:
 
     # sb "Rape roleplay-ist... {w}and you're still listening."
-    sb "Rape roleplay-ist... {w}and you're still listening."
+    sb "强奸的角色扮演者……{w}而且你还在听。"
 
 # game/code/d09/extended/d09s07.rpy:75
 translate chinese d09s07_a949d20e:
 
     # mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
-    mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
+    mc "你坐在咖啡馆里，邻桌的人开始给你讲他被外星人绑架的经历。"
 
 # game/code/d09/extended/d09s07.rpy:76
 translate chinese d09s07_df68be80:
 
     # mc "You don't believe him, but you keep listening."
-    mc "You don't believe him, but you keep listening."
+    mc "你不相信他，但你也还是在继续听。"
 
 # game/code/d09/extended/d09s07.rpy:78
 translate chinese d09s07_60c432b3:
 
     # sb "Okay, so let me tell you about this abduction."
-    sb "Okay, so let me tell you about this abduction."
+    sb "好吧，那让我告诉你这次绑架。"
 
 # game/code/d09/extended/d09s07.rpy:79
 translate chinese d09s07_51ed2154:
 
     # mc "... {w}I'm listening."
-    mc "... {w}I'm listening."
+    mc "……{w}我在听。"
 
 # game/code/d09/extended/d09s07.rpy:80
 translate chinese d09s07_00c6d17b:
 
     # sb "You go knock on her door. She opens it. You kick in the door."
-    sb "You go knock on her door. She opens it. You kick in the door."
+    sb "你去敲她的门。她去开门。你把门踢开。"
 
 # game/code/d09/extended/d09s07.rpy:81
 translate chinese d09s07_554c781f:
 
     # mc "Like hell. No way."
-    mc "Like hell. No way."
+    mc "怎么这样。不可能。"
 
 # game/code/d09/extended/d09s07.rpy:83
 translate chinese d09s07_f1ecb14d:
 
     # sb "It's not a crime. She's literally asked for it."
-    sb "It's not a crime. She's literally asked for it."
+    sb "这不是犯罪。她真的是自找的。"
 
 # game/code/d09/extended/d09s07.rpy:85
 translate chinese d09s07_3a8bca94:
 
     # mc "So you say. {w}No, I need to hear it from her first."
-    mc "So you say. {w}No, I need to hear it from her first."
+    mc "你是这么说的。{w}不，我得先听她亲口说。"
 
 # game/code/d09/extended/d09s07.rpy:86
 translate chinese d09s07_9a1a0502:
 
     # sb "Fine, tell her that I sent you, or whatever makes you happy. Then kick in the door."
-    sb "Fine, tell her that I sent you, or whatever makes you happy. Then kick in the door."
+    sb "好吧，告诉她是我派你来的，或者随便你愿意说什么吧。然后把门踢开。"
 
 # game/code/d09/extended/d09s07.rpy:88
 translate chinese d09s07_44b96f72:
 
     # sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
-    sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
+    sb "你的目标很简单。让她说出来：大力水手无罪。"
 
 # game/code/d09/extended/d09s07.rpy:89
 translate chinese d09s07_2689b56d:
 
     # mc "That's it?"
-    mc "That's it?"
+    mc "就这样？"
 
 # game/code/d09/extended/d09s07.rpy:91
 translate chinese d09s07_d06e2d44:
 
     # sb "Yep. Fuck that pussy, torture her tits, whatever you want. Just get her to say that phrase."
-    sb "Yep. Fuck that pussy, torture her tits, whatever you want. Just get her to say that phrase."
+    sb "就这样。操那个娘们小穴，折磨她的奶子，随便你。只要让她说出这句话就行。"
 
 # game/code/d09/extended/d09s07.rpy:92
 translate chinese d09s07_ee4ed6e1:
 
     # mc "Popeye is not guilty."
-    mc "Popeye is not guilty."
+    mc "大力水手无罪。"
 
 # game/code/d09/extended/d09s07.rpy:93
 translate chinese d09s07_07864c6c:
 
     # sb "Apparently he's been stealing spinach."
-    sb "Apparently he's been stealing spinach."
+    sb "显然他一直在偷菠菜。"
 
 # game/code/d09/extended/d09s07.rpy:94
 translate chinese d09s07_f538cffe:
 
     # mc "Or maybe lacing those chicken sandwiches with addictive substances."
-    mc "Or maybe lacing those chicken sandwiches with addictive substances."
+    mc "也有可能是在那些鸡肉三明治中掺了上瘾的东西。"
 
 # game/code/d09/extended/d09s07.rpy:96
 translate chinese d09s07_09b1aed0:
 
     # sb "Exactly."
-    sb "Exactly."
+    sb "没错。"
 
 # game/code/d09/extended/d09s07.rpy:97
 translate chinese d09s07_964f5171:
 
     # mc "This still sounds insane."
-    mc "This still sounds insane."
+    mc "听起来还是很疯狂。"
 
 # game/code/d09/extended/d09s07.rpy:99
 translate chinese d09s07_f8480dc5:
 
     # sb "Here, I brought a mask for you."
-    sb "Here, I brought a mask for you."
+    sb "来，我给你带了一个口罩。"
 
 # game/code/d09/extended/d09s07.rpy:101
 translate chinese d09s07_6a38bffb:
 
     # sb "Go knock at room 569 and talk to her. See how you feel about it then."
-    sb "Go knock at room 569 and talk to her. See how you feel about it then."
+    sb "去敲569房间，和她谈谈。看看你到时的感觉如何。"
 
 # game/code/d09/extended/d09s07.rpy:102
 translate chinese d09s07_045ac921:
 
     # mc "*sigh* This had better be legal."
-    mc "*sigh* This had better be legal."
+    mc "*叹气* 这最好是合法的。"
 
 # game/code/d09/extended/d09s07.rpy:103
 translate chinese d09s07_8f8d9e8c:
 
     # sb "100%% legal."
-    sb "100%% legal."
+    sb "100%%合法。"
 
 # game/code/d09/extended/d09s07.rpy:110
 translate chinese d09s07_07dfee0a:
 
     # mct "Terrific.{w} What the hell am I doing?"
-    mct "Terrific.{w} What the hell am I doing?"
+    mct "棒极了。我到底在干嘛？{w} What the hell am I doing?"
 
 # game/code/d09/extended/d09s07.rpy:111
 translate chinese d09s07_96c2ca1b:
 
     # mct "Well, let's get this over with..."
-    mct "Well, let's get this over with..."
+    mct "好吧，来把这事儿解决了吧……"
 
 # game/code/d09/extended/d09s07.rpy:115
 translate chinese d09s07_9f03fd63:
 
     # mct "That is the room."
-    mct "That is the room."
+    mct "就是这个房间。"
 
 # game/code/d09/extended/d09s07.rpy:119
 translate chinese d09s07_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*敲门*"
 
 # game/code/d09/extended/d09s07.rpy:120
 translate chinese d09s07_e21e0693:
 
     # "???" "Just a minute..."
-    "???" "Just a minute..."
+    "???" "请稍等……"
 
 # game/code/d09/extended/d09s07.rpy:122
 translate chinese d09s07_29bc5049:
 
     # "???" "Hello?"
-    "???" "Hello?"
+    "???" "哈喽？"
 
 # game/code/d09/extended/d09s07.rpy:125
 translate chinese d09s07_70772979:
 
     # mc "Holy shit. {w}Aren't you a judge?"
-    mc "Holy shit. {w}Aren't you a judge?"
+    mc "我靠。{w}你不是法官吗？"
 
 # game/code/d09/extended/d09s07.rpy:127
 translate chinese d09s07_87b9fa6e:
 
     # jdg "I am... {w}What's this about?"
-    jdg "I am... {w}What's this about?"
+    jdg "我是……这是怎么回事？"
 
 # game/code/d09/extended/d09s07.rpy:130
 translate chinese d09s07_9bacafc9:
 
     # mc "Um, hi. {w}You seem familiar. Don't I know you?"
-    mc "Um, hi. {w}You seem familiar. Don't I know you?"
+    mc "呃，你好啊。 {w}你看起来很眼熟。我好像认识你？"
 
 # game/code/d09/extended/d09s07.rpy:132
 translate chinese d09s07_d2edf73e:
 
     # "???" "You've probably seen my posters. I'm up for reelection this year."
-    "???" "You've probably seen my posters. I'm up for reelection this year."
+    "???" "你可能看过我的海报。我今年要竞选连任。"
 
 # game/code/d09/extended/d09s07.rpy:133
 translate chinese d09s07_eb2f402d:
 
     # mc "Oh, yeah. You're a judge."
-    mc "Oh, yeah. You're a judge."
+    mc "哦，对了。你是个法官。"
 
 # game/code/d09/extended/d09s07.rpy:134
 translate chinese d09s07_24b3c4de:
 
     # jdg "I am... {w}Do you normally knock on hotel doors without knowing who is there?"
-    jdg "I am... {w}Do you normally knock on hotel doors without knowing who is there?"
+    jdg "我是……{w}你通常会在不知道谁在的情况下敲酒店的门吗？"
 
 # game/code/d09/extended/d09s07.rpy:137
 translate chinese d09s07_95096c0e:
 
     # mc "Samiya sent me."
-    mc "Samiya sent me."
+    mc "萨米亚让我来的。"
 
 # game/code/d09/extended/d09s07.rpy:139
 translate chinese d09s07_85965887:
 
     # jdg "Oh. I see."
-    jdg "Oh. I see."
+    jdg "哦，我明白了。"
 
 # game/code/d09/extended/d09s07.rpy:140
 translate chinese d09s07_ca96a0b0:
 
     # mc "I assume you know what this is about."
-    mc "I assume you know what this is about."
+    mc "我想你知道这是怎么回事。"
 
 # game/code/d09/extended/d09s07.rpy:141
 translate chinese d09s07_f745b958:
 
     # jdg "Let me make this perfectly clear."
-    jdg "Let me make this perfectly clear."
+    jdg "让我把话说清楚。"
 
 # game/code/d09/extended/d09s07.rpy:142
 translate chinese d09s07_d98a1a35:
 
     # mc "I'm listening."
-    mc "I'm listening."
+    mc "我听着呢。"
 
 # game/code/d09/extended/d09s07.rpy:144
 translate chinese d09s07_e1ad7efa:
 
     # jdg "My soft safeword is kumquat.{w} Kumquat. Can you remember that?"
-    jdg "My soft safeword is kumquat.{w} Kumquat. Can you remember that?"
+    jdg "我的隐性安全词是金桔。{w}金桔。你能记住吗？"
 
 # game/code/d09/extended/d09s07.rpy:145
 translate chinese d09s07_51404530:
 
     # mc "Yeah, sure. Kumquat."
-    mc "Yeah, sure. Kumquat."
+    mc "当然能记住。金桔。"
 
 # game/code/d09/extended/d09s07.rpy:146
 translate chinese d09s07_46152c0a:
 
     # jdg "If I say kumquat, then whatever we are doing stops temporarily."
-    jdg "If I say kumquat, then whatever we are doing stops temporarily."
+    jdg "如果我说金桔，那无论我们在做什么，都要先暂时停止。"
 
 # game/code/d09/extended/d09s07.rpy:147
 translate chinese d09s07_e7811348:
 
     # mc "Not permanently?"
-    mc "Not permanently?"
+    mc "不是永久性的？"
 
 # game/code/d09/extended/d09s07.rpy:149
 translate chinese d09s07_e65f240b:
 
     # jdg "No. My hard safeword is a phrase. \"Popeye is not guilty.\" You get me to say that, this game is over."
-    jdg "No. My hard safeword is a phrase. \"Popeye is not guilty.\" You get me to say that, this game is over."
+    jdg "不是，我的硬性安全词是个短语。\大力水手无罪。如果你能让我这么说出来，这个游戏就结束了。\"Popeye is not guilty.\" You get me to say that, this game is over."
 
 # game/code/d09/extended/d09s07.rpy:150
 translate chinese d09s07_f5910228:
 
     # mc "Right. \"Popeye is not guilty.\" I was told that."
-    mc "Right. \"Popeye is not guilty.\" I was told that."
+    mc "对。\"大力水手无罪。\"有人告诉我的。"
 
 # game/code/d09/extended/d09s07.rpy:151
 translate chinese d09s07_66953696:
 
     # jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
-    jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
+    jdg "你的目标是让我说出大力水手无罪，最好不要逼我说金桔。\"Popeye is not guilty\", preferably without forcing me to say kumquat."
 
 # game/code/d09/extended/d09s07.rpy:152
 translate chinese d09s07_c7510e07:
 
     # mc "Are there any other rules?"
-    mc "Are there any other rules?"
+    mc "还有其他规则吗？"
 
 # game/code/d09/extended/d09s07.rpy:154
 translate chinese d09s07_a4203e4c:
 
     # jdg "Just those two. Do you need to write them down?"
-    jdg "Just those two. Do you need to write them down?"
+    jdg "就这两条。你需要把它们写下来吗？"
 
 # game/code/d09/extended/d09s07.rpy:155
 translate chinese d09s07_b0016dd4:
 
     # mc "I'm actually in college."
-    mc "I'm actually in college."
+    mc "其实我在上大学。"
 
 # game/code/d09/extended/d09s07.rpy:156
 translate chinese d09s07_30a60e90:
 
     # jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
-    jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
+    jdg "那你很棒哦。{w}所以你是打算做点什么，还是他妈的要整晚都干站在那？"
 
 # game/code/d09/extended/d09s07.rpy:174
 translate chinese d09s07_part1_44dd89e2:
 
     # jdg "My goodness!"
-    jdg "My goodness!"
+    jdg "天啊！"
 
 # game/code/d09/extended/d09s07.rpy:178
 translate chinese d09s07_part1_43d8f966:
 
     # mc "Alright. If we're going to do this, let's do it right!"
-    mc "Alright. If we're going to do this, let's do it right!"
+    mc "好吧。既然我们要做，那就好好做吧！"
 
 # game/code/d09/extended/d09s07.rpy:187
 translate chinese d09s07_part1_29d25398:
 
     # mc "Let's see what you've got here."
-    mc "Let's see what you've got here."
+    mc "让我们看看你有什么本事。"
 
 # game/code/d09/extended/d09s07.rpy:189
 translate chinese d09s07_part1_c96642c6:
@@ -406,385 +406,385 @@ translate chinese d09s07_part1_c96642c6:
 translate chinese d09s07_part1_75274bc4:
 
     # jdg "You'll never know, you piece of shit!"
-    jdg "You'll never know, you piece of shit!"
+    jdg "你永远不会知道的，你这混蛋！"
 
 # game/code/d09/extended/d09s07.rpy:192
 translate chinese d09s07_part1_fdd96405:
 
     # mc "You know what I want?"
-    mc "You know what I want?"
+    mc "你知道我想要什么吗？"
 
 # game/code/d09/extended/d09s07.rpy:194
 translate chinese d09s07_part1_2b848459:
 
     # mc "I don't want your sagging tits!"
-    mc "I don't want your sagging tits!"
+    mc "我不想要你那下垂的奶子！"
 
 # game/code/d09/extended/d09s07.rpy:198
 translate chinese d09s07_part1_723c8655:
 
     # mc "Or your frigid cunt!"
-    mc "Or your frigid cunt!"
+    mc "也不想要你下面那冰冷的洞穴！"
 
 # game/code/d09/extended/d09s07.rpy:200
 translate chinese d09s07_part1_e73ed796:
 
     # mc "I just want you to say..."
-    mc "I just want you to say..."
+    mc "我只想让你说……"
 
 # game/code/d09/extended/d09s07.rpy:202
 translate chinese d09s07_part1_4d5f5d74:
 
     # mc "...that sailor is not guilty!"
-    mc "...that sailor is not guilty!"
+    mc "……那个水手无罪！"
 
 # game/code/d09/extended/d09s07.rpy:208
 translate chinese d09s07_part1_f3c26ddb:
 
     # jdg "I'll never submit to your threats!"
-    jdg "I'll never submit to your threats!"
+    jdg "我永远不会屈服于你的！"
 
 # game/code/d09/extended/d09s07.rpy:211
 translate chinese d09s07_part1_778be498:
 
     # mc "Lets see how long you can keep this up."
-    mc "Lets see how long you can keep this up."
+    mc "那就看看你能坚持多久吧。"
 
 # game/code/d09/extended/d09s07.rpy:213
 translate chinese d09s07_part1_77164c8b:
 
     # jdg "Also, don't bruise my face. It will be difficult to explain."
-    jdg "Also, don't bruise my face. It will be difficult to explain."
+    jdg "还有，别把我的脸弄伤了。到时候很难解释的。"
 
 # game/code/d09/extended/d09s07.rpy:215
 translate chinese d09s07_part1_5a800c67:
 
     # mc "No promises. {w}That wasn't in the rules."
-    mc "No promises. {w}That wasn't in the rules."
+    mc "我不保证。{w}这不在规定之内。"
 
 # game/code/d09/extended/d09s07.rpy:218
 translate chinese d09s07_part1_918c616c:
 
     # mc "Let's get rid of this."
-    mc "Let's get rid of this."
+    mc "把这个扔掉吧。"
 
 # game/code/d09/extended/d09s07.rpy:220
 translate chinese d09s07_part1_272e7808:
 
     # jdg "You fucking basta-"
-    jdg "You fucking basta-"
+    jdg "你他妈的混蛋--"
 
 # game/code/d09/extended/d09s07.rpy:222
 translate chinese d09s07_part1_8d9b77db:
 
     # mc "Hmm. Pretty nice."
-    mc "Hmm. Pretty nice."
+    mc "嗯，相当不错啊。"
 
 # game/code/d09/extended/d09s07.rpy:224
 translate chinese d09s07_part1_a8751f4c:
 
     # mc "Now let's get the real show started."
-    mc "Now let's get the real show started."
+    mc "现在让我们开始真正的表演吧。"
 
 # game/code/d09/extended/d09s07.rpy:236
 translate chinese d09s07_part1_9b34df49:
 
     # jdg "Holy Shit!"
-    jdg "Holy Shit!"
+    jdg "我靠！"
 
 # game/code/d09/extended/d09s07.rpy:238
 translate chinese d09s07_part1_626d4ab8:
 
     # mc "I am sure you can't wait to taste it."
-    mc "I am sure you can't wait to taste it."
+    mc "我相信你已经迫不及待地想品尝它了。"
 
 # game/code/d09/extended/d09s07.rpy:240
 translate chinese d09s07_part1_bc0db522:
 
     # jdg "Oh, fuck. Are you hard already?"
-    jdg "Oh, fuck. Are you hard already?"
+    jdg "哦,操。你已经硬了吗？"
 
 # game/code/d09/extended/d09s07.rpy:254
 translate chinese d09s07_bj_80744895:
 
     # mc "That's the last I'm going to hear from you...{w} for a little while"
-    mc "That's the last I'm going to hear from you...{w} for a little while"
+    mc "这将是待会一段时间内，我最后一次听到你的声音……"
 
 # game/code/d09/extended/d09s07.rpy:256
 translate chinese d09s07_bj_bace6fe7:
 
     # jdg "Mmmmffffff."
-    jdg "Mmmmffffff."
+    jdg "嗯唔唔。"
 
 # game/code/d09/extended/d09s07.rpy:257
 translate chinese d09s07_bj_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "说什么呢？"
 
 # game/code/d09/extended/d09s07.rpy:258
 translate chinese d09s07_bj_c2b89c00:
 
     # mc "You can't speak?"
-    mc "You can't speak?"
+    mc "你不能说话？"
 
 # game/code/d09/extended/d09s07.rpy:259
 translate chinese d09s07_bj_cbf3bf89:
 
     # mc "Is it because my cock is balls deep in your whore mouth?"
-    mc "Is it because my cock is balls deep in your whore mouth?"
+    mc "是因为我的鸡巴在你这个婊子嘴里吗？"
 
 # game/code/d09/extended/d09s07.rpy:264
 translate chinese d09s07_bj_825653e1:
 
     # mc "Well, I guess I should give you a chance to breathe."
-    mc "Well, I guess I should give you a chance to breathe."
+    mc "好吧，我想我该给你个呼吸的机会。"
 
 # game/code/d09/extended/d09s07.rpy:265
 translate chinese d09s07_bj_25441248:
 
     # mc "Sometime before you pass out."
-    mc "Sometime before you pass out."
+    mc "在你晕倒之前。"
 
 # game/code/d09/extended/d09s07.rpy:266
 translate chinese d09s07_bj_83991a96:
 
     # mc "Although..."
-    mc "Although..."
+    mc "虽然……"
 
 # game/code/d09/extended/d09s07.rpy:267
 translate chinese d09s07_bj_aff072e3:
 
     # mc "Oh, fine."
-    mc "Oh, fine."
+    mc "哦，好吧。"
 
 # game/code/d09/extended/d09s07.rpy:272
 translate chinese d09s07_bj_9a762b38:
 
     # jdg "Gah!"
-    jdg "Gah!"
+    jdg "啊！"
 
 # game/code/d09/extended/d09s07.rpy:273
 translate chinese d09s07_bj_77b66b1d:
 
     # jdg "*panting*"
-    jdg "*panting*"
+    jdg "*喘气*"
 
 # game/code/d09/extended/d09s07.rpy:274
 translate chinese d09s07_bj_499b27db:
 
     # mc "Can you breathe okay?"
-    mc "Can you breathe okay?"
+    mc "你能呼吸吗？"
 
 # game/code/d09/extended/d09s07.rpy:276
 translate chinese d09s07_bj_c5fc2c7e:
 
     # jdg "Yes."
-    jdg "Yes."
+    jdg "可以。"
 
 # game/code/d09/extended/d09s07.rpy:278
 translate chinese d09s07_bj_f930667f:
 
     # mc "Then here we go again."
-    mc "Then here we go again."
+    mc "那我来了。"
 
 # game/code/d09/extended/d09s07.rpy:281
 translate chinese d09s07_bj_6c3780d7:
 
     # mc "I could keep this up all night."
-    mc "I could keep this up all night."
+    mc "我可以整晚都这样。"
 
 # game/code/d09/extended/d09s07.rpy:282
 translate chinese d09s07_bj_ae48211d:
 
     # mc "Have you ever heard of waterboarding?"
-    mc "Have you ever heard of waterboarding?"
+    mc "你听过水刑吗？"
 
 # game/code/d09/extended/d09s07.rpy:283
 translate chinese d09s07_bj_6abe67cc:
 
     # mc "It's considered \"Not Torture\" by certain governments."
-    mc "It's considered \"Not Torture\" by certain governments."
+    mc "某些政府认为这“不是酷刑。\"Not Torture\" by certain governments."
 
 # game/code/d09/extended/d09s07.rpy:284
 translate chinese d09s07_bj_41e35daa:
 
     # mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
-    mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
+    mc "主要是你把一条脏毛巾塞进某个人的喉咙，一直塞到填满人的两个肺。"
 
 # game/code/d09/extended/d09s07.rpy:289
 translate chinese d09s07_bj_e077c458:
 
     # mc "Then you soak the towel in water."
-    mc "Then you soak the towel in water."
+    mc "然后再把毛巾泡在水中。"
 
 # game/code/d09/extended/d09s07.rpy:290
 translate chinese d09s07_bj_2fa1c866:
 
     # mc "It gives the impression of drowning."
-    mc "It gives the impression of drowning."
+    mc "这会给人一种溺水的感觉。"
 
 # game/code/d09/extended/d09s07.rpy:291
 translate chinese d09s07_bj_1df29fb5:
 
     # mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
-    mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
+    mc "不仅仅是感觉--对任何人来说，这基本上就是肺衰竭。"
 
 # game/code/d09/extended/d09s07.rpy:292
 translate chinese d09s07_bj_9660cd0d:
 
     # mc "Then you pull out the towel."
-    mc "Then you pull out the towel."
+    mc "然后你把毛巾拉出来。"
 
 # game/code/d09/extended/d09s07.rpy:297
 translate chinese d09s07_bj_2f2624b9:
 
     # jdg "*coughs*"
-    jdg "*coughs*"
+    jdg "*咳嗽*"
 
 # game/code/d09/extended/d09s07.rpy:298
 translate chinese d09s07_bj_6d7ac427:
 
     # jdg "That violates the Geneva Convention."
-    jdg "That violates the Geneva Convention."
+    jdg "这违反了《日内瓦公约》。"
 
 # game/code/d09/extended/d09s07.rpy:299
 translate chinese d09s07_bj_a3d41786:
 
     # mc "Good thing that doesn't apply to us."
-    mc "Good thing that doesn't apply to us."
+    mc "好在那不适用于我们。"
 
 # game/code/d09/extended/d09s07.rpy:310
 translate chinese d09s07_bjtorture_8d9ce8b9:
 
     # jdg "No more! No more!"
-    jdg "No more! No more!"
+    jdg "不要了! 不要了！不要了！"
 
 # game/code/d09/extended/d09s07.rpy:313
 translate chinese d09s07_bjtorture_7118439c:
 
     # mc "You didn't say the magic words."
-    mc "You didn't say the magic words."
+    mc "你没有说你的咒语哦。"
 
 # game/code/d09/extended/d09s07.rpy:321
 translate chinese d09s07_bjtorture_7b019173:
 
     # mc "Damn! It's like your face was meant for fucking."
-    mc "Damn! It's like your face was meant for fucking."
+    mc "该死！感觉你的脸就是用来做爱的。"
 
 # game/code/d09/extended/d09s07.rpy:326
 translate chinese d09s07_bjtorture_0797ebd4:
 
     # mc "I've never seen something so inviting as your mouth."
-    mc "I've never seen something so inviting as your mouth."
+    mc "我从没见过像你的嘴这样诱人的东西。"
 
 # game/code/d09/extended/d09s07.rpy:327
 translate chinese d09s07_bjtorture_920af2d7:
 
     # mc "If I'm not careful, I'm going to drop my first load down your throat."
-    mc "If I'm not careful, I'm going to drop my first load down your throat."
+    mc "如果我一不小心，就会把第一枪灌进你的喉咙哦。"
 
 # game/code/d09/extended/d09s07.rpy:333
 translate chinese d09s07_bjtorture_a61571ac:
 
     # jdg "Kumquat! Kumquat!"
-    jdg "Kumquat! Kumquat!"
+    jdg "金桔！ 金桔！"
 
 # game/code/d09/extended/d09s07.rpy:334
 translate chinese d09s07_bjtorture_23b109a2:
 
     # mc "Do you want me to stop, or just change things up a bit?"
-    mc "Do you want me to stop, or just change things up a bit?"
+    mc "你想让我停下来，还是稍微改变一下？"
 
 # game/code/d09/extended/d09s07.rpy:335
 translate chinese d09s07_bjtorture_436ef5bb:
 
     # jdg "I said, \"Kumquat\"."
-    jdg "I said, \"Kumquat\"."
+    jdg "我说，金桔。\"Kumquat\"."
 
 # game/code/d09/extended/d09s07.rpy:336
 translate chinese d09s07_bjtorture_0cf97b73:
 
     # mc "Fine. I hope your pussy is as inviting as your whore mouth."
-    mc "Fine. I hope your pussy is as inviting as your whore mouth."
+    mc "好吧。希望你的小穴和你的妓女嘴巴一样诱人。"
 
 # game/code/d09/extended/d09s07.rpy:339
 translate chinese d09s07_bjtorture_4156b996:
 
     # mc "I hope your pussy is as inviting as your whore mouth."
-    mc "I hope your pussy is as inviting as your whore mouth."
+    mc "希望你的小穴和你的妓女嘴巴一样诱人。"
 
 # game/code/d09/extended/d09s07.rpy:347
 translate chinese d09s07_part2_b7e24e8c:
 
     # mc "Let's make it more fun."
-    mc "Let's make it more fun."
+    mc "我们来玩点更有意思的吧。"
 
 # game/code/d09/extended/d09s07.rpy:349
 translate chinese d09s07_part2_12734915:
 
     # mc "I wanna see what else you've been hiding."
-    mc "I wanna see what else you've been hiding."
+    mc "我想看看你还藏了什么。"
 
 # game/code/d09/extended/d09s07.rpy:351
 translate chinese d09s07_part2_659f7335:
 
     # mc "Nice panties!"
-    mc "Nice panties!"
+    mc "小内内不错！!"
 
 # game/code/d09/extended/d09s07.rpy:353
 translate chinese d09s07_part2_0e47dc07:
 
     # mc "Lets get this out of the way."
-    mc "Lets get this out of the way."
+    mc "L让我们开始吧。"
 
 # game/code/d09/extended/d09s07.rpy:360
 translate chinese d09s07_part2_3763f71a:
 
     # mc "Well, look what we have here."
-    mc "Well, look what we have here."
+    mc "嗯，看看这个景色吧。"
 
 # game/code/d09/extended/d09s07.rpy:361
 translate chinese d09s07_part2_1fee38f0:
 
     # mc "You are bareass naked..."
-    mc "You are bareass naked..."
+    mc "你光着屁股一丝不挂……"
 
 # game/code/d09/extended/d09s07.rpy:363
 translate chinese d09s07_part2_9e39659c:
 
     # mc "... and I have a raging hard-on"
-    mc "... and I have a raging hard-on"
+    mc "……我这边有个小帐篷"
 
 # game/code/d09/extended/d09s07.rpy:364
 translate chinese d09s07_part2_30155efe:
 
     # jdg "No... {w}please, not that!"
-    jdg "No... {w}please, not that!"
+    jdg "不……请不要这样！"
 
 # game/code/d09/extended/d09s07.rpy:380
 translate chinese d09s07_sex_66238e65:
 
     # jdg "Aaahhhhh!"
-    jdg "Aaahhhhh!"
+    jdg "啊啊啊！"
 
 # game/code/d09/extended/d09s07.rpy:382
 translate chinese d09s07_sex_3c28788b:
 
     # jdg "Oh fuck yes!"
-    jdg "Oh fuck yes!"
+    jdg "妈的，太棒了！"
 
 # game/code/d09/extended/d09s07.rpy:383
 translate chinese d09s07_sex_205806d6:
 
     # jdg "You're raping me!"
-    jdg "You're raping me!"
+    jdg "你在强奸我！"
 
 # game/code/d09/extended/d09s07.rpy:388
 translate chinese d09s07_sex_2b76221c:
 
     # jdg "You're actually raping me!"
-    jdg "You're actually raping me!"
+    jdg "你真的在强奸我！"
 
 # game/code/d09/extended/d09s07.rpy:389
 translate chinese d09s07_sex_325ca484:
